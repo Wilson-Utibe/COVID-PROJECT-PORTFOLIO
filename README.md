@@ -29,3 +29,7 @@ The analysis covers the following topics
 2. Country-wise Analysis:Cases,deaths and vaccination rates by country.
 3. Mortality Rates: Continents with highest mortality rates
 4. Vaccination Efforts:Vaccinatin rate and coverage
+
+### Key Findings
+- United State has the highest number of COVID-19 cases
+- Vaccination rates vary significantly across countries
